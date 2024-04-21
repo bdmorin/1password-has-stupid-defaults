@@ -19,23 +19,6 @@
 * Run the script and it emits commands to disable `printing` and `export items` on every vault
 
 
-
-
-## 🕵️ Extra recommendations
-
-* <!-- If you recommend installing anything special, or if you recommend using X thing for the good use of your project...-->
-
----
-
-## 🎉 Was the 1password permissions audit and fixer helpful? Help us raise these numbers up
-
-[![GitHub followers](https://img.shields.io/github/followers/bdmorin.svg?style=social)](https://github.com/bdmorin)
-[![GitHub stars](https://img.shields.io/github/stars/bdmorin/.svg?style=social)](https://github.com/bdmorin/stargazers)
-[![GitHub watchers](https://img.shields.io/github/watchers/bdmorin/.svg?style=social)](https://github.com/bdmorin/watchers)
-[![GitHub forks](https://img.shields.io/github/forks/bdmorin/.svg?style=social)](https://github.com/bdmorin/network/members)
-
-Enjoy! 😃
-
 ---
 
 ## ⚖️📝 **License and Changelog**
