@@ -1,76 +1,23 @@
 <!-- markdownlint-disable MD032 MD033-->
-<!-- Write your README.md file. Build something amazing! This README.md template can guide you to build your project documentation, but feel free to modify it as you wish 🥰 -->
 # 🔥 **bdmorin/**
-
-<div align="center">
-  <!-- Change your logo -->
-  <a href="https://github.com/bdmorin/">
-    <img width="100%" src="https://i.imgur.com/SVvgxJF.png" alt="@bdmorin/'s logo">
-  </a>
-  <br>
-  <a href="https://github.com/bdmorin//issues">
-    <img src="https://img.shields.io/github/issues/bdmorin/?color=0088ff&style=for-the-badge&logo=github" alt="bdmorin/'s issues"/>
-  </a>
-  <a href="https://github.com/bdmorin//pulls">
-    <img src="https://img.shields.io/github/issues-pr/bdmorin/?color=0088ff&style=for-the-badge&logo=github"  alt="bdmorin/'s pull requests"/>
-  </a>
-</div>
-
----
 
 ## 🤔 **About the project**
 
-* <!-- ... [WHY DID YOU CREATED THIS PROJECT?, MOTIVATION, PURPOSE, DESCRIPTION, OBJECTIVES, etc] -->
+* 1password has horrific default permissions on vaults
 
 ---
 
 ## ⚡ **Installation**
 
-* <!-- ... [SHOW HOW YOUR PROJECT IS INSTALLED] -->
+* 1password CLI installed
+* I use fish, I'm considering porting this to *sh
 
 ---
 
 ## 🚀 **Usage**
 
-* <!-- ... [SHOW HOW YOUR PROJECT IS USED] -->
+* Run the script and it emits commands to disable `printing` and `export items` on every vault
 
----
-
-## 🌲 **Project tree**
-
-<!-- ... [SHOW YOUR PROJECT TREE HERE IF USEFUL] -->
-
----
-
-## 📝 **Additional notes**
-
-* <!-- ... [ADD ADDITIONAL NOTES] -->
-
----
-
-## 📸 **Screenshots**
-
-<!-- ... [SOME DESCRIPTIVE IMAGES] -->
-
----
-
-## 🍰 **Supporters and donators**
-
-<!-- Change your small logo -->
-<a href="https://github.com/bdmorin/">
-  <img alt="@bdmorin/'s brand logo without text" align="right" src="https://i.imgur.com/3qK1sie.png" width="18%" />
-</a>
-
-
-We are currently looking for new donators to help and maintain this project! ❤️
-
-By donating, you will help the development of this project, and *you will be featured in this 's README.md*, so everyone can see your kindness and visit your content ⭐.
-
-<a href="https://github.com/sponsors/bdmorin"> <!-- MODIFY THIS LINK TO YOUR MAIN DONATING SITE IF YOU ARE NOT IN THE GITHUB SPONSORS PROGRAM -->
-  <img src="https://img.shields.io/badge/Sponsor-bdmorin/-blue?logo=github-sponsors&style=for-the-badge&color=red">
-</a>
-
-<!-- LINK TO YOUR DONATING PAGES HERE -->
 
 ---
 
